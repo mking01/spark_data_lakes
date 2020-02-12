@@ -10,4 +10,5 @@ Files:
 Instructions to Run:
 Open a terminal and run "python etl.py".  All other scripts including the configs script connect to this one and all steps can be executed within this program.
 
-
+Credits and Acknowledgements:
+This project was completed as part of Udacity's Data Engineering Nanodegree program.
